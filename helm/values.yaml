@@ -1,3 +1,4 @@
 namespace: "test-namespace"
 app: "yq-test"
 image: "old"
+other: "abc"
